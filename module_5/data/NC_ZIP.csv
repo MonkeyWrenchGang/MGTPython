@@ -1,0 +1,783 @@
+﻿ZIP_ID,Zip_Code,City_Name,Population_est,People__Sq_Mile,city_std,lat,lon
+1,27109,"Winston Salem, North Carolina","1,640","17,437.56",Winston Salem,36.132547,-80.277512
+2,28223,"Charlotte, North Carolina","3,265","7,150.18",Charlotte,35.301946,-80.734737
+3,27601,"Raleigh, North Carolina","10,228","5,443.02",Raleigh,35.773377,-78.63433
+4,27701,"Durham, North Carolina","25,096","4,581.77",Durham,35.999482,-78.899263
+5,28205,"Charlotte, North Carolina","46,301","3,876.93",Charlotte,35.218791,-80.789601
+6,27605,"Raleigh, North Carolina","4,191","3,817.69",Raleigh,35.789776,-78.655239
+7,28212,"Charlotte, North Carolina","35,367","3,802.06",Charlotte,35.187703,-80.744556
+8,27403,"Greensboro, North Carolina","22,330","3,740.47",Greensboro,36.065973,-79.824383
+9,28209,"Charlotte, North Carolina","19,759","3,638.25",Charlotte,35.178714,-80.853985
+10,27510,"Carrboro, North Carolina","14,241","3,582.32",Carrboro,35.905374,-79.081257
+11,28207,"Charlotte, North Carolina","8,691","3,435.91",Charlotte,35.194148,-80.824585
+12,28210,"Charlotte, North Carolina","40,857","3,268.97",Charlotte,35.129916,-80.856206
+13,28543,"Tarawa Terrace, North Carolina","6,401","3,105.09",Tarawa Terrace,34.735136,-77.378478
+14,28203,"Charlotte, North Carolina","10,162","3,052.82",Charlotte,35.208082,-80.85925
+15,27609,"Raleigh, North Carolina","32,820","2,954.94",Raleigh,35.843765,-78.633643
+16,28204,"Charlotte, North Carolina","4,900","2,894.13",Charlotte,35.214799,-80.827018
+17,27608,"Raleigh, North Carolina","10,116","2,887.64",Raleigh,35.8103,-78.648658
+18,28202,"Charlotte, North Carolina","5,032","2,756.00",Charlotte,35.227271,-80.844194
+19,27401,"Greensboro, North Carolina","19,172","2,733.71",Greensboro,36.071484,-79.759449
+20,28211,"Charlotte, North Carolina","27,757","2,482.16",Charlotte,35.166342,-80.797285
+21,28305,"Fayetteville, North Carolina","6,087","2,467.70",Fayetteville,35.052609,-78.907244
+22,28801,"Asheville, North Carolina","13,580","2,453.92",Asheville,35.592911,-82.55673
+23,28226,"Charlotte, North Carolina","35,311","2,403.37",Charlotte,35.10265,-80.822144
+24,27014,"Cooleemee, North Carolina",573,"2,379.51",Cooleemee,35.810044,-80.555743
+25,27813,"Black Creek, North Carolina",360,"2,369.29",Black Creek,35.634599,-77.932425
+26,28270,"Charlotte, North Carolina","25,941","2,245.80",Charlotte,35.114865,-80.761718
+27,27511,"Cary, North Carolina","45,130","2,239.26",Cary,35.752273,-78.77768
+28,27408,"Greensboro, North Carolina","17,072","2,233.40",Greensboro,36.103667,-79.813712
+29,28304,"Fayetteville, North Carolina","36,056","2,180.89",Fayetteville,35.028031,-78.98764
+30,27104,"Winston Salem, North Carolina","26,855","2,172.48",Winston Salem,36.095923,-80.321038
+31,28403,"Wilmington, North Carolina","30,334","2,135.54",Wilmington,34.221684,-77.880633
+32,27513,"Cary, North Carolina","37,119","2,046.46",Cary,35.805678,-78.797088
+33,28314,"Fayetteville, North Carolina","47,879","2,043.85",Fayetteville,35.053108,-79.029617
+34,27615,"Raleigh, North Carolina","40,424","2,043.38",Raleigh,35.898502,-78.63549
+35,27260,"High Point, North Carolina","25,381","2,036.62",High Point,35.954936,-79.989888
+36,28303,"Fayetteville, North Carolina","32,039","2,020.86",Fayetteville,35.085957,-78.95952
+37,27707,"Durham, North Carolina","42,671","1,949.42",Durham,35.954525,-78.953317
+38,28213,"Charlotte, North Carolina","25,882","1,907.01",Charlotte,35.286034,-80.734355
+39,28206,"Charlotte, North Carolina","12,539","1,789.04",Charlotte,35.256127,-80.820999
+40,27262,"High Point, North Carolina","23,853","1,785.32",High Point,35.962642,-80.041637
+41,28208,"Charlotte, North Carolina","35,890","1,647.35",Charlotte,35.23043,-80.907493
+42,27506,"Buies Creek, North Carolina","1,938","1,625.71",Buies Creek,35.407248,-78.739048
+43,27606,"Raleigh, North Carolina","43,420","1,562.38",Raleigh,35.742323,-78.715478
+44,27101,"Winston Salem, North Carolina","19,708","1,561.79",Winston Salem,36.111102,-80.200493
+45,28159,"Spencer, North Carolina","3,055","1,551.71",Spencer,35.693824,-80.43528
+46,28054,"Gastonia, North Carolina","33,363","1,549.71",Gastonia,35.265188,-81.147916
+47,27607,"Raleigh, North Carolina","18,309","1,476.92",Raleigh,35.807507,-78.718084
+48,27103,"Winston Salem, North Carolina","27,268","1,468.92",Winston Salem,36.058401,-80.319961
+49,27604,"Raleigh, North Carolina","32,148","1,460.58",Raleigh,35.818501,-78.557712
+50,27106,"Winston Salem, North Carolina","39,805","1,444.50",Winston Salem,36.14391,-80.323157
+51,28109,"Misenheimer, North Carolina",460,"1,424.47",Misenheimer,35.489033,-80.294068
+52,28269,"Charlotte, North Carolina","42,356","1,419.99",Charlotte,35.334508,-80.803461
+53,28575,"Salter Path, North Carolina",134,"1,409.96",Salter Path,34.689314,-76.888048
+54,27407,"Greensboro, North Carolina","43,084","1,399.08",Greensboro,36.008599,-79.87816
+55,27405,"Greensboro, North Carolina","41,091","1,392.15",Greensboro,36.114409,-79.735752
+56,27410,"Greensboro, North Carolina","45,459","1,370.25",Greensboro,36.120542,-79.893717
+57,28215,"Charlotte, North Carolina","41,259","1,366.57",Charlotte,35.243457,-80.701067
+58,28277,"Charlotte, North Carolina","33,905","1,360.39",Charlotte,35.053275,-80.816601
+59,28519,"Bridgeton, North Carolina",316,"1,345.94",Bridgeton,35.122077,-77.021482
+60,27202,"Altamahaw, North Carolina",24,"1,345.56",Altamahaw,36.18558,-79.506028
+61,28017,"Boiling Springs, North Carolina","1,654","1,332.65",Boiling Springs,35.254868,-81.652345
+62,27613,"Raleigh, North Carolina","36,460","1,313.22",Raleigh,35.920303,-78.715151
+63,28330,"Cordova, North Carolina",324,"1,304.77",Cordova,34.909611,-79.821985
+64,28217,"Charlotte, North Carolina","19,388","1,301.44",Charlotte,35.168896,-80.908285
+65,28105,"Matthews, North Carolina","32,092","1,299.86",Matthews,35.119668,-80.713333
+66,28726,"East Flat Rock, North Carolina","3,021","1,246.41",East Flat Rock,35.281157,-82.417476
+67,28031,"Cornelius, North Carolina","13,544","1,242.90",Cornelius,35.47174,-80.887637
+68,28032,"Cramerton, North Carolina","2,443","1,217.12",Cramerton,35.236709,-81.082613
+69,27105,"Winston Salem, North Carolina","40,713","1,176.63",Winston Salem,36.161884,-80.239622
+70,28619,"Drexel, North Carolina","1,162","1,170.02",Drexel,35.7606,-81.600189
+71,28409,"Wilmington, North Carolina","26,376","1,085.30",Wilmington,34.152893,-77.865715
+72,28601,"Hickory, North Carolina","46,176","1,063.22",Hickory,35.769702,-81.322587
+73,28412,"Wilmington, North Carolina","23,510","1,047.30",Wilmington,34.138269,-77.915944
+74,27616,"Raleigh, North Carolina","21,974","1,044.40",Raleigh,35.866967,-78.539038
+75,27612,"Raleigh, North Carolina","27,178","1,026.60",Raleigh,35.859509,-78.734321
+76,28227,"Charlotte, North Carolina","39,535","1,021.32",Charlotte,35.189404,-80.645488
+77,28216,"Charlotte, North Carolina","29,763","1,011.51",Charlotte,35.309994,-80.887121
+78,27705,"Durham, North Carolina","40,713","1,006.73",Durham,36.025937,-78.978858
+79,28405,"Wilmington, North Carolina","24,968",990.53,Wilmington,34.263182,-77.86638
+80,28428,"Carolina Beach, North Carolina","5,154",990.51,Carolina Beach,34.038168,-77.903523
+81,27342,"Sedalia, North Carolina",30,980.23,Sedalia,36.075555,-79.629701
+82,27610,"Raleigh, North Carolina","43,360",970.07,Raleigh,35.7444,-78.546278
+83,28544,"Midway Park, North Carolina","6,371",959.33,Midway Park,34.73631,-77.309097
+84,27282,"Jamestown, North Carolina","11,627",954.13,Jamestown,35.991898,-79.928684
+85,28806,"Asheville, North Carolina","33,050",946.62,Asheville,35.576017,-82.612754
+86,28083,"Kannapolis, North Carolina","20,209",936.87,Kannapolis,35.488337,-80.578541
+87,27948,"Kill Devil Hills, North Carolina","9,201",928.78,Kill Devil Hills,36.012053,-75.681359
+88,28557,"Morehead City, North Carolina","13,164",919.89,Morehead City,34.737281,-76.762079
+89,27713,"Durham, North Carolina","30,903",915.99,Durham,35.89754,-78.926184
+90,28088,"Landis, North Carolina","3,093",910.65,Landis,35.542685,-80.618829
+91,28262,"Charlotte, North Carolina","18,168",883.42,Charlotte,35.322061,-80.739981
+92,28077,"High Shoals, North Carolina",551,881.74,High Shoals,35.404549,-81.203093
+93,28134,"Pineville, North Carolina","7,501",878.91,Pineville,35.083127,-80.892441
+94,28144,"Salisbury, North Carolina","26,497",859.81,Salisbury,35.706749,-80.464802
+95,28666,"Icard, North Carolina",530,859.49,Icard,35.725742,-81.472044
+96,28707,"Balsam, North Carolina",49,848.97,Balsam,35.419332,-83.079839
+97,28072,"Granite Quarry, North Carolina",262,839.31,Granite Quarry,35.616364,-80.443266
+98,27127,"Winston Salem, North Carolina","26,663",837.54,Winston Salem,36.017948,-80.277266
+99,28791,"Hendersonville, North Carolina","12,430",802.84,Hendersonville,35.356404,-82.516094
+100,28273,"Charlotte, North Carolina","18,281",801.76,Charlotte,35.127365,-80.946828
+101,27265,"High Point, North Carolina","32,607",796.66,High Point,36.015599,-80.035747
+102,28101,"Mc Adenville, North Carolina",482,781.34,Mc Adenville,35.256604,-81.082145
+103,28052,"Gastonia, North Carolina","37,076",765.7,Gastonia,35.214656,-81.233227
+104,27455,"Greensboro, North Carolina","22,619",756.79,Greensboro,36.184321,-79.81083
+105,28098,"Lowell, North Carolina","2,656",755.97,Lowell,35.271041,-81.098623
+106,28758,"Mountain Home, North Carolina",629,750.4,Mountain Home,35.373906,-82.495061
+107,28081,"Kannapolis, North Carolina","23,696",735.51,Kannapolis,35.50199,-80.673353
+108,27858,"Greenville, North Carolina","45,015",728.42,Greenville,35.53173,-77.284172
+109,27514,"Chapel Hill, North Carolina","50,554",727.99,Chapel Hill,35.875358,-79.034543
+110,28311,"Fayetteville, North Carolina","33,101",723.6,Fayetteville,35.167782,-78.887753
+111,27406,"Greensboro, North Carolina","50,336",713.23,Greensboro,36.00053,-79.764104
+112,28745,"Lake Junaluska, North Carolina",563,700.63,Lake Junaluska,35.520786,-82.96285
+113,27878,"Sharpsburg, North Carolina","1,648",698.42,Sharpsburg,35.868929,-77.827117
+114,28803,"Asheville, North Carolina","24,107",697.47,Asheville,35.534534,-82.512773
+115,28804,"Asheville, North Carolina","19,307",695.27,Asheville,35.647888,-82.564321
+116,27509,"Butner, North Carolina","8,590",688.02,Butner,36.138514,-78.778014
+117,28671,"Rutherford College, North Carolina",482,687.39,Rutherford College,35.753393,-81.532221
+118,28325,"Calypso, North Carolina",373,682.87,Calypso,35.152235,-78.103306
+119,28805,"Asheville, North Carolina","15,715",677.47,Asheville,35.625128,-82.484579
+120,28307,"Fort Bragg, North Carolina","31,769",669.07,Fort Bragg,35.126386,-79.041011
+121,28480,"Wrightsville Beach, North Carolina","2,564",660.63,Wrightsville Beach,34.214915,-77.800872
+122,28012,"Belmont, North Carolina","19,024",659.52,Belmont,35.218415,-81.039763
+123,28401,"Wilmington, North Carolina","21,799",657.87,Wilmington,34.29231,-77.961714
+124,27409,"Greensboro, North Carolina","13,473",637.67,Greensboro,36.082867,-79.951086
+125,27703,"Durham, North Carolina","31,682",626.36,Durham,35.961263,-78.811875
+126,28637,"Hildebran, North Carolina","1,537",625.67,Hildebran,35.716872,-81.419286
+127,28056,"Gastonia, North Carolina","27,584",616.85,Gastonia,35.210248,-81.12692
+128,28465,"Oak Island, North Carolina","6,782",616.8,Oak Island,33.912696,-78.107474
+129,27603,"Raleigh, North Carolina","31,527",615.78,Raleigh,35.664003,-78.664585
+130,27706,"Durham, North Carolina",669,604.51,Durham,35.995817,-78.942483
+131,28214,"Charlotte, North Carolina","20,811",603.86,Charlotte,35.272414,-80.967036
+132,27804,"Rocky Mount, North Carolina","25,653",597.71,Rocky Mount,35.996946,-77.851497
+133,27107,"Winston Salem, North Carolina","38,788",596.65,Winston Salem,36.013158,-80.175491
+134,28594,"Emerald Isle, North Carolina","3,501",594.67,Emerald Isle,34.666421,-77.030798
+135,27704,"Durham, North Carolina","26,516",572,Durham,36.042446,-78.828771
+136,27873,"Saratoga, North Carolina",380,562.94,Saratoga,35.653485,-77.775669
+137,28027,"Concord, North Carolina","32,111",562.42,Concord,35.418638,-80.672995
+138,28512,"Atlantic Beach, North Carolina","3,538",562.14,Atlantic Beach,34.700349,-76.772549
+139,28160,"Spindale, North Carolina","4,213",558.11,Spindale,35.361053,-81.92192
+140,28348,"Hope Mills, North Carolina","25,617",555.21,Hope Mills,34.927413,-78.910283
+141,28120,"Mount Holly, North Carolina","15,595",549.77,Mount Holly,35.328651,-81.026393
+142,28546,"Jacksonville, North Carolina","31,572",535.47,Jacksonville,34.798974,-77.356169
+143,27545,"Knightdale, North Carolina","15,708",533.84,Knightdale,35.783679,-78.478141
+144,28019,"Caroleen, North Carolina",617,524.84,Caroleen,35.28191,-81.791064
+145,27954,"Manteo, North Carolina","5,168",523.82,Manteo,35.906773,-75.679726
+146,27012,"Clemmons, North Carolina","21,619",520.48,Clemmons,36.00727,-80.377147
+147,28104,"Matthews, North Carolina","19,107",519.81,Matthews,35.0645,-80.684658
+148,27529,"Garner, North Carolina","30,289",515.71,Garner,35.641675,-78.584673
+149,27555,"Micro, North Carolina",449,513.24,Micro,35.564179,-78.200018
+150,27284,"Kernersville, North Carolina","41,705",511.88,Kernersville,36.11822,-80.076287
+151,27215,"Burlington, North Carolina","33,439",504.35,Burlington,36.032628,-79.48481
+152,28638,"Hudson, North Carolina","12,125",492.32,Hudson,35.848076,-81.474623
+153,27712,"Durham, North Carolina","17,760",491.39,Durham,36.095588,-78.905968
+154,28387,"Southern Pines, North Carolina","13,242",485.17,Southern Pines,35.186729,-79.38069
+155,28690,"Valdese, North Carolina","9,603",480.06,Valdese,35.737117,-81.574971
+156,27360,"Thomasville, North Carolina","41,894",478.93,Thomasville,35.860582,-80.099285
+157,28411,"Wilmington, North Carolina","17,332",476.29,Wilmington,34.298304,-77.80304
+158,28613,"Conover, North Carolina","20,115",470.8,Conover,35.740244,-81.211617
+159,27803,"Rocky Mount, North Carolina","21,805",467.22,Rocky Mount,35.903051,-77.856172
+160,28540,"Jacksonville, North Carolina","45,074",465.97,Jacksonville,34.76346,-77.503297
+161,28374,"Pinehurst, North Carolina","11,314",464.05,Pinehurst,35.197261,-79.457888
+162,28117,"Mooresville, North Carolina","18,347",455.89,Mooresville,35.572849,-80.890514
+163,28306,"Fayetteville, North Carolina","29,850",452.32,Fayetteville,34.964502,-78.89848
+164,27263,"High Point, North Carolina","19,181",446.29,High Point,35.90452,-79.94257
+165,27841,"Hassell, North Carolina",40,441.35,Hassell,35.909798,-77.277674
+166,27614,"Raleigh, North Carolina","11,045",434.42,Raleigh,35.94831,-78.621619
+167,28009,"Badin, North Carolina",978,427.93,Badin,35.407797,-80.105207
+168,27896,"Wilson, North Carolina","13,907",425.95,Wilson,35.790773,-77.976801
+169,28704,"Arden, North Carolina","14,782",422.14,Arden,35.470295,-82.56597
+170,27943,"Hatteras, North Carolina",634,421.24,Hatteras,35.218373,-75.687462
+171,28078,"Huntersville, North Carolina","27,883",412.54,Huntersville,35.40529,-80.858891
+172,27534,"Goldsboro, North Carolina","32,997",411.2,Goldsboro,35.373342,-77.896598
+173,27502,"Apex, North Carolina","44,147",411.07,Apex,35.733469,-78.89296
+174,28075,"Harrisburg, North Carolina","14,604",407.33,Harrisburg,35.326909,-80.657686
+175,28602,"Hickory, North Carolina","27,482",400.19,Hickory,35.68047,-81.393036
+176,28036,"Davidson, North Carolina","10,178",393.4,Davidson,35.480547,-80.792539
+177,27949,"Kitty Hawk, North Carolina","6,088",391.18,Kitty Hawk,36.10927,-75.730689
+178,27870,"Roanoke Rapids, North Carolina","27,643",388.89,Roanoke Rapids,36.419006,-77.715856
+179,28528,"Gloucester, North Carolina",530,385.12,Gloucester,34.732058,-76.538662
+180,28677,"Statesville, North Carolina","31,937",382.28,Statesville,35.736732,-80.922989
+181,28553,"Marshallberg, North Carolina",528,380.67,Marshallberg,34.734417,-76.513426
+182,28757,"Montreat, North Carolina",448,377.62,Montreat,35.654862,-82.291634
+183,28025,"Concord, North Carolina","41,384",376.13,Concord,35.378984,-80.520849
+184,27040,"Pfafftown, North Carolina","9,562",369.89,Pfafftown,36.16858,-80.381328
+185,28729,"Etowah, North Carolina","2,672",365.49,Etowah,35.306797,-82.593506
+186,28169,"Waco, North Carolina",234,363.44,Waco,35.358071,-81.430501
+187,27288,"Eden, North Carolina","24,878",357.62,Eden,36.497559,-79.74946
+188,28590,"Winterville, North Carolina","13,365",356.4,Winterville,35.519043,-77.40879
+189,28449,"Kure Beach, North Carolina","1,493",353.34,Kure Beach,33.98117,-77.91862
+190,27893,"Wilson, North Carolina","41,199",352.84,Wilson,35.686693,-77.895425
+191,27023,"Lewisville, North Carolina","9,923",350.4,Lewisville,36.089764,-80.456727
+192,27936,"Frisco, North Carolina",401,348.38,Frisco,35.242441,-75.618528
+193,27051,"Walkertown, North Carolina","6,840",347.93,Walkertown,36.183698,-80.16196
+194,27568,"Pine Level, North Carolina",74,344.76,Pine Level,35.512027,-78.23925
+195,28390,"Spring Lake, North Carolina","20,201",344.12,Spring Lake,35.229779,-78.971284
+196,27530,"Goldsboro, North Carolina","38,376",343.57,Goldsboro,35.380668,-78.081405
+197,28115,"Mooresville, North Carolina","24,930",339.25,Mooresville,35.58458,-80.778871
+198,27801,"Rocky Mount, North Carolina","22,292",336.36,Rocky Mount,35.913276,-77.730779
+199,28725,"Dillsboro, North Carolina",94,332.9,Dillsboro,35.371622,-83.254699
+200,28089,"Lattimore, North Carolina",262,330.27,Lattimore,35.317496,-81.665397
+201,27929,"Currituck, North Carolina",716,329.81,Currituck,36.432236,-76.001589
+202,28043,"Forest City, North Carolina","20,383",327.69,Forest City,35.312834,-81.86972
+203,28097,"Locust, North Carolina","3,009",326.47,Locust,35.260861,-80.427941
+204,28034,"Dallas, North Carolina","14,159",322.06,Dallas,35.353664,-81.178943
+205,28658,"Newton, North Carolina","24,978",321.59,Newton,35.628499,-81.239081
+206,27540,"Holly Springs, North Carolina","12,367",321.4,Holly Springs,35.624762,-78.859674
+207,27045,"Rural Hall, North Carolina","7,179",319.11,Rural Hall,36.234951,-80.296729
+208,27253,"Graham, North Carolina","25,198",310.23,Graham,35.966209,-79.347414
+209,28467,"Calabash, North Carolina","5,147",308.77,Calabash,33.921875,-78.596865
+210,27021,"King, North Carolina","15,984",308.05,King,36.318059,-80.339273
+211,28079,"Indian Trail, North Carolina","11,315",306.31,Indian Trail,35.12481,-80.592908
+212,28086,"Kings Mountain, North Carolina","24,382",304.7,Kings Mountain,35.243945,-81.378942
+213,28739,"Hendersonville, North Carolina","17,515",304.5,Hendersonville,35.272669,-82.526412
+214,28367,"Norman, North Carolina",79,302.97,Norman,35.174402,-79.728648
+215,28616,"Crossnore, North Carolina",441,299.78,Crossnore,36.028867,-81.923065
+216,28016,"Bessemer City, North Carolina","14,363",297.18,Bessemer City,35.316985,-81.300582
+217,27516,"Chapel Hill, North Carolina","28,584",296.38,Chapel Hill,35.906252,-79.154758
+218,28554,"Maury, North Carolina","1,521",296.32,Maury,35.485305,-77.604911
+219,27939,"Grandy, North Carolina","1,690",290.93,Grandy,36.234342,-75.869397
+220,27587,"Wake Forest, North Carolina","29,476",285.07,Wake Forest,35.980909,-78.551098
+221,28092,"Lincolnton, North Carolina","35,214",283.5,Lincolnton,35.480432,-81.25033
+222,28630,"Granite Falls, North Carolina","17,116",282.99,Granite Falls,35.827169,-81.421657
+223,28023,"China Grove, North Carolina","12,941",281.95,China Grove,35.571383,-80.608208
+224,28792,"Hendersonville, North Carolina","27,062",281.25,Hendersonville,35.383322,-82.369202
+225,28342,"Falcon, North Carolina",356,281.06,Falcon,35.191183,-78.651262
+226,27890,"Weldon, North Carolina","2,879",280.29,Weldon,36.41418,-77.587745
+227,27258,"Haw River, North Carolina","4,985",279.85,Haw River,36.025243,-79.324627
+228,28147,"Salisbury, North Carolina","21,864",278.91,Salisbury,35.681117,-80.562942
+229,28110,"Monroe, North Carolina","36,515",274.74,Monroe,35.065318,-80.524866
+230,28372,"Pembroke, North Carolina","12,337",273.5,Pembroke,34.695605,-79.180446
+231,28150,"Shelby, North Carolina","28,690",272.25,Shelby,35.342703,-81.576248
+232,27520,"Clayton, North Carolina","32,155",271.25,Clayton,35.631139,-78.441431
+233,28152,"Shelby, North Carolina","21,879",270.76,Shelby,35.24272,-81.599412
+234,27292,"Lexington, North Carolina","38,889",268.08,Lexington,35.738325,-80.207547
+235,28037,"Denver, North Carolina","13,030",267.7,Denver,35.507092,-81.027942
+236,28778,"Swannanoa, North Carolina","9,321",265.24,Swannanoa,35.629122,-82.405195
+237,27295,"Lexington, North Carolina","34,157",265.04,Lexington,35.867634,-80.317077
+238,27217,"Burlington, North Carolina","34,264",263.67,Burlington,36.190945,-79.380186
+239,28146,"Salisbury, North Carolina","24,972",262.49,Salisbury,35.620645,-80.414468
+240,28006,"Alexis, North Carolina",568,258.3,Alexis,35.410439,-81.09244
+241,28076,"Henrietta, North Carolina",249,257.57,Henrietta,35.255987,-81.782755
+242,27244,"Elon, North Carolina","10,762",256.79,Elon,36.192849,-79.493855
+243,28164,"Stanley, North Carolina","12,662",255.33,Stanley,35.39288,-81.044037
+244,28539,"Hubert, North Carolina","12,507",253.14,Hubert,34.703534,-77.199887
+245,28732,"Fletcher, North Carolina","12,083",252.22,Fletcher,35.443231,-82.472185
+246,28607,"Boone, North Carolina","27,143",248.34,Boone,36.205846,-81.656022
+247,27964,"Point Harbor, North Carolina",618,247.3,Point Harbor,36.091816,-75.80554
+248,27317,"Randleman, North Carolina","14,198",244.51,Randleman,35.836199,-79.800849
+249,27560,"Morrisville, North Carolina","10,320",244.49,Morrisville,35.853529,-78.849689
+250,28333,"Dudley, North Carolina","11,543",243.93,Dudley,35.284311,-78.012655
+251,27370,"Trinity, North Carolina","15,263",243.09,Trinity,35.80928,-79.978025
+252,28715,"Candler, North Carolina","22,256",241.95,Candler,35.528276,-82.706634
+253,27582,"Stovall, North Carolina",63,240.22,Stovall,36.452076,-78.571802
+254,27526,"Fuquay Varina, North Carolina","24,906",237.08,Fuquay Varina,35.541473,-78.831392
+255,27310,"Oak Ridge, North Carolina","4,187",237.04,Oak Ridge,36.18195,-79.985744
+256,27941,"Harbinger, North Carolina",87,230.71,Harbinger,36.097932,-75.819046
+257,27592,"Willow Spring, North Carolina","8,926",229.03,Willow Spring,35.560141,-78.67394
+258,28584,"Swansboro, North Carolina","7,705",228.61,Swansboro,34.727977,-77.102282
+259,28650,"Maiden, North Carolina","10,172",228.48,Maiden,35.582446,-81.163438
+260,28610,"Claremont, North Carolina","8,620",226.7,Claremont,35.734775,-81.13843
+261,28278,"Charlotte, North Carolina","6,175",225.92,Charlotte,35.130547,-81.002682
+262,27915,"Avon, North Carolina",786,222.6,Avon,35.348771,-75.50471
+263,27834,"Greenville, North Carolina","43,549",221.44,Greenville,35.657563,-77.380045
+264,28301,"Fayetteville, North Carolina","35,152",217.7,Fayetteville,34.971977,-78.756357
+265,27313,"Pleasant Garden, North Carolina","6,370",213.98,Pleasant Garden,35.930899,-79.758242
+266,28166,"Troutman, North Carolina","6,365",213.93,Troutman,35.682675,-80.867373
+267,27591,"Wendell, North Carolina","15,339",213.15,Wendell,35.786352,-78.383414
+268,27501,"Angier, North Carolina","12,898",211.43,Angier,35.484941,-78.68457
+269,28731,"Flat Rock, North Carolina","6,361",210.88,Flat Rock,35.280184,-82.383092
+270,28501,"Kinston, North Carolina","21,864",207.12,Kinston,35.24326,-77.526554
+271,28038,"Earl, North Carolina",104,207.03,Earl,35.199222,-81.544276
+272,28138,"Rockwell, North Carolina","10,073",206.82,Rockwell,35.515381,-80.43876
+273,27027,"Mayodan, North Carolina","4,388",205.5,Mayodan,36.441759,-79.988878
+274,28021,"Cherryville, North Carolina","12,550",205.12,Cherryville,35.400774,-81.403346
+275,27203,"Asheboro, North Carolina","49,668",204.74,Asheboro,35.653974,-79.846235
+276,27030,"Mount Airy, North Carolina","39,058",203.66,Mount Airy,36.487278,-80.637446
+277,28697,"Wilkesboro, North Carolina","12,222",203.09,Wilkesboro,36.134008,-81.165721
+278,28001,"Albemarle, North Carolina","26,236",201.58,Albemarle,35.338579,-80.208179
+279,28352,"Laurinburg, North Carolina","25,162",200.63,Laurinburg,34.768361,-79.453668
+280,27521,"Coats, North Carolina","5,636",198.3,Coats,35.412991,-78.662288
+281,28429,"Castle Hayne, North Carolina","7,327",197.56,Castle Hayne,34.341848,-77.904013
+282,28673,"Sherrills Ford, North Carolina","4,155",196.65,Sherrills Ford,35.602401,-81.008641
+283,27536,"Henderson, North Carolina","39,842",194.74,Henderson,36.350924,-78.387589
+284,27278,"Hillsborough, North Carolina","20,544",194.44,Hillsborough,36.08822,-79.091623
+285,28787,"Weaverville, North Carolina","16,735",194.16,Weaverville,35.741288,-82.51549
+286,28073,"Grover, North Carolina","4,572",193.76,Grover,35.198574,-81.483781
+287,28460,"Sneads Ferry, North Carolina","5,233",190.59,Sneads Ferry,34.528294,-77.420498
+288,27571,"Rolesville, North Carolina","1,287",189.28,Rolesville,35.92249,-78.453601
+289,27576,"Selma, North Carolina","16,381",188.31,Selma,35.588381,-78.253716
+290,28339,"Erwin, North Carolina","6,652",188.01,Erwin,35.31054,-78.732747
+291,28659,"North Wilkesboro, North Carolina","21,559",187.71,North Wilkesboro,36.222815,-81.148013
+292,28007,"Ansonville, North Carolina",695,187.68,Ansonville,35.105487,-80.102776
+293,28755,"Micaville, North Carolina",163,184.73,Micaville,35.919217,-82.212697
+294,27358,"Summerfield, North Carolina","9,846",184.53,Summerfield,36.222309,-79.892132
+295,27508,"Bunn, North Carolina","1,691",183.42,Bunn,35.951828,-78.250851
+296,27959,"Nags Head, North Carolina","2,771",182.99,Nags Head,35.885082,-75.59591
+297,28360,"Lumberton, North Carolina","12,791",182.15,Lumberton,34.670334,-79.074938
+298,28174,"Wingate, North Carolina","7,024",182.09,Wingate,34.973831,-80.435334
+299,28373,"Pinebluff, North Carolina","1,063",181.93,Pinebluff,35.091323,-79.488461
+300,28504,"Kinston, North Carolina","21,535",181.76,Kinston,35.222186,-77.639499
+301,27909,"Elizabeth City, North Carolina","34,897",180.63,Elizabeth City,36.292914,-76.277362
+302,28358,"Lumberton, North Carolina","36,671",180.42,Lumberton,34.608106,-78.934474
+303,27596,"Youngsville, North Carolina","8,474",179.91,Youngsville,36.004817,-78.440532
+304,28376,"Raeford, North Carolina","25,759",179.24,Raeford,34.992407,-79.242642
+305,27302,"Mebane, North Carolina","22,005",179.13,Mebane,36.142031,-79.266154
+306,28547,"Camp Lejeune, North Carolina","21,632",178.46,Camp Lejeune,34.64589,-77.32504
+307,27330,"Sanford, North Carolina","54,739",177.34,Sanford,35.470469,-79.172871
+308,28345,"Hamlet, North Carolina","12,311",177.27,Hamlet,34.874117,-79.662902
+309,28560,"New Bern, North Carolina","25,588",176.27,New Bern,35.164212,-76.951457
+310,27249,"Gibsonville, North Carolina","10,699",174.88,Gibsonville,36.154141,-79.582389
+311,27577,"Smithfield, North Carolina","19,086",174.58,Smithfield,35.489722,-78.332954
+312,27235,"Colfax, North Carolina","2,354",174.09,Colfax,36.101234,-80.008461
+313,28577,"Sealevel, North Carolina",461,173.8,Sealevel,34.883769,-76.38329
+314,28350,"Lakeview, North Carolina",368,173.39,Lakeview,35.239542,-79.318807
+315,28701,"Alexander, North Carolina","3,110",172.96,Alexander,35.705254,-82.640099
+316,28786,"Waynesville, North Carolina","25,315",172.65,Waynesville,35.540688,-83.011871
+317,27301,"Mc Leansville, North Carolina","5,643",172.02,Mc Leansville,36.108026,-79.665392
+318,28379,"Rockingham, North Carolina","26,132",171.86,Rockingham,34.928194,-79.780254
+319,27981,"Wanchese, North Carolina","1,556",171.71,Wanchese,35.852855,-75.637424
+320,27006,"Advance, North Carolina","10,762",171.61,Advance,35.939004,-80.440264
+321,28562,"New Bern, North Carolina","27,949",171.27,New Bern,35.072604,-77.123304
+322,28655,"Morganton, North Carolina","54,898",167.69,Morganton,35.765655,-81.753744
+323,28112,"Monroe, North Carolina","22,714",167.41,Monroe,34.889925,-80.549548
+324,28173,"Waxhaw, North Carolina","17,732",163.82,Waxhaw,34.916155,-80.731415
+325,28371,"Parkton, North Carolina","5,083",162.12,Parkton,34.914878,-78.991226
+326,27299,"Linwood, North Carolina","4,154",159.98,Linwood,35.754214,-80.391091
+327,28033,"Crouse, North Carolina","1,966",159.83,Crouse,35.425216,-81.315626
+328,28470,"Shallotte, North Carolina","7,296",157.54,Shallotte,33.975328,-78.3896
+329,28532,"Havelock, North Carolina","27,435",157.15,Havelock,34.886624,-76.913776
+330,28766,"Penrose, North Carolina",842,156.93,Penrose,35.248938,-82.618151
+331,27350,"Sophia, North Carolina","5,907",156.93,Sophia,35.808253,-79.888213
+332,28621,"Elkin, North Carolina","10,357",156.4,Elkin,36.359933,-80.780321
+333,28730,"Fairview, North Carolina","8,188",156.31,Fairview,35.528125,-82.349133
+334,27357,"Stokesdale, North Carolina","6,490",155.43,Stokesdale,36.273807,-79.991057
+335,28391,"Stedman, North Carolina","4,398",154.62,Stedman,35.034168,-78.698563
+336,28080,"Iron Station, North Carolina","6,210",154.38,Iron Station,35.453165,-81.109643
+337,27377,"Whitsett, North Carolina","3,866",151.9,Whitsett,36.042693,-79.608683
+338,27597,"Zebulon, North Carolina","17,178",151.85,Zebulon,35.848846,-78.300977
+339,28625,"Statesville, North Carolina","30,999",150.79,Statesville,35.868681,-80.890284
+340,28642,"Jonesville, North Carolina","5,466",150.26,Jonesville,36.218398,-80.820312
+341,27050,"Tobaccoville, North Carolina","3,803",148.22,Tobaccoville,36.229963,-80.406485
+342,27889,"Washington, North Carolina","25,332",147.12,Washington,35.588401,-77.021065
+343,27877,"Severn, North Carolina",251,144.84,Severn,36.511198,-77.176544
+344,28334,"Dunn, North Carolina","23,391",144.28,Dunn,35.263401,-78.552737
+345,28315,"Aberdeen, North Carolina","9,524",143.4,Aberdeen,35.108619,-79.453166
+346,27320,"Reidsville, North Carolina","39,088",142.66,Reidsville,36.34407,-79.644365
+347,28711,"Black Mountain, North Carolina","11,826",142.27,Black Mountain,35.610217,-82.305969
+348,28368,"Olivia, North Carolina",433,141.26,Olivia,35.3569,-79.101771
+349,27504,"Benson, North Carolina","12,986",140.51,Benson,35.400309,-78.518278
+350,28645,"Lenoir, North Carolina","46,477",140.1,Lenoir,35.979359,-81.547133
+351,28682,"Terrell, North Carolina",860,139.99,Terrell,35.60028,-80.960357
+352,28468,"Sunset Beach, North Carolina","2,988",138.84,Sunset Beach,33.932426,-78.522494
+353,28612,"Connellys Springs, North Carolina","12,324",137.99,Connellys Springs,35.728384,-81.487414
+354,27009,"Belews Creek, North Carolina","2,211",136.86,Belews Creek,36.230734,-80.077571
+355,28681,"Taylorsville, North Carolina","24,165",136.39,Taylorsville,35.92235,-81.224112
+356,28777,"Spruce Pine, North Carolina","10,672",135.32,Spruce Pine,35.923136,-82.077753
+357,27248,"Franklinville, North Carolina","4,629",131.87,Franklinville,35.783846,-79.711678
+358,27214,"Browns Summit, North Carolina","6,259",131.74,Browns Summit,36.2126,-79.681544
+359,28469,"Ocean Isle Beach, North Carolina","4,384",131.2,Ocean Isle Beach,33.945838,-78.467002
+360,28784,"Tuxedo, North Carolina",106,129.86,Tuxedo,35.211824,-82.434486
+361,27966,"Powells Point, North Carolina","1,389",128.43,Powells Point,36.128513,-75.839182
+362,28605,"Blowing Rock, North Carolina","3,280",126.79,Blowing Rock,36.129968,-81.705278
+363,27842,"Henrico, North Carolina","1,366",126.39,Henrico,36.528448,-77.850022
+364,28749,"Little Switzerland, North Carolina",46,126.38,Little Switzerland,35.849068,-82.077736
+365,27863,"Pikeville, North Carolina","8,008",124.44,Pikeville,35.488168,-77.971767
+366,28782,"Tryon, North Carolina","6,219",124.32,Tryon,35.212324,-82.280741
+367,27055,"Yadkinville, North Carolina","13,084",124.14,Yadkinville,36.113864,-80.631592
+368,28570,"Newport, North Carolina","18,364",123.31,Newport,34.783094,-76.886709
+369,28712,"Brevard, North Carolina","17,454",122.55,Brevard,35.159229,-82.779903
+370,28040,"Ellenboro, North Carolina","6,452",122.49,Ellenboro,35.372996,-81.755686
+371,28386,"Shannon, North Carolina","5,422",122.27,Shannon,34.858922,-79.122294
+372,28461,"Southport, North Carolina","9,095",121.63,Southport,33.967209,-78.059122
+373,28748,"Leicester, North Carolina","9,555",121.37,Leicester,35.658138,-82.757662
+374,28362,"Marietta, North Carolina",80,121.36,Marietta,34.37223,-79.127337
+375,27376,"West End, North Carolina","7,623",121.19,West End,35.261099,-79.521811
+376,28779,"Sylva, North Carolina","13,622",120.49,Sylva,35.365519,-83.210357
+377,28722,"Columbus, North Carolina","5,438",119.46,Columbus,35.239258,-82.114733
+378,27233,"Climax, North Carolina","3,424",119.19,Climax,35.884488,-79.690554
+379,28609,"Catawba, North Carolina","5,513",117.65,Catawba,35.680629,-81.059051
+380,27028,"Mocksville, North Carolina","23,284",117.1,Mocksville,35.924116,-80.58145
+381,27283,"Julian, North Carolina","2,849",116.92,Julian,35.951474,-79.635418
+382,28676,"State Road, North Carolina","3,047",116.13,State Road,36.331894,-80.85491
+383,27920,"Buxton, North Carolina","1,613",116,Buxton,35.243438,-75.56393
+384,28163,"Stanfield, North Carolina","6,598",114.32,Stanfield,35.209645,-80.459491
+385,28640,"Jefferson, North Carolina","4,079",114.31,Jefferson,36.403077,-81.402662
+386,28129,"Oakboro, North Carolina","4,841",113.83,Oakboro,35.231586,-80.326733
+387,28516,"Beaufort, North Carolina","10,430",113.75,Beaufort,34.820159,-76.600244
+388,27546,"Lillington, North Carolina","14,541",112.25,Lillington,35.384792,-78.880927
+389,27855,"Murfreesboro, North Carolina","5,972",112.07,Murfreesboro,36.41564,-77.069346
+390,28451,"Leland, North Carolina","15,833",111.61,Leland,34.230477,-78.089664
+391,27985,"Winfall, North Carolina",124,110.74,Winfall,36.218634,-76.476331
+392,27573,"Roxboro, North Carolina","24,527",110.63,Roxboro,36.43244,-78.94851
+393,27025,"Madison, North Carolina","10,485",109.78,Madison,36.380838,-79.973232
+394,27522,"Creedmoor, North Carolina","8,733",109.65,Creedmoor,36.117158,-78.677494
+395,28332,"Dublin, North Carolina",537,109.52,Dublin,34.655385,-78.71071
+396,28377,"Red Springs, North Carolina","11,932",108.51,Red Springs,34.826888,-79.213236
+397,27864,"Pinetops, North Carolina","4,218",108.39,Pinetops,35.80676,-77.640027
+398,28384,"Saint Pauls, North Carolina","10,404",108.3,Saint Pauls,34.79709,-78.960927
+399,28128,"Norwood, North Carolina","7,604",107.88,Norwood,35.210696,-80.154523
+400,28524,"Davis, North Carolina",412,107.26,Davis,34.785221,-76.475447
+401,27982,"Waves, North Carolina",50,107.11,Waves,35.56263,-75.470911
+402,28124,"Mount Pleasant, North Carolina","5,463",107,Mount Pleasant,35.409254,-80.401677
+403,27851,"Lucama, North Carolina","4,752",106.97,Lucama,35.640053,-78.030662
+404,27525,"Franklinton, North Carolina","10,573",106.7,Franklinton,36.110802,-78.465516
+405,28579,"Smyrna, North Carolina",390,106.61,Smyrna,34.760705,-76.52008
+406,27052,"Walnut Cove, North Carolina","10,380",106.38,Walnut Cove,36.31883,-80.150635
+407,27807,"Bailey, North Carolina","5,686",106.01,Bailey,35.804496,-78.095516
+408,27041,"Pilot Mountain, North Carolina","7,036",106.01,Pilot Mountain,36.41096,-80.488991
+409,28698,"Zionville, North Carolina","2,258",105.63,Zionville,36.307444,-81.730169
+410,28678,"Stony Point, North Carolina","4,637",105.56,Stony Point,35.842876,-81.070888
+411,27856,"Nashville, North Carolina","15,094",105.01,Nashville,36.026518,-77.987864
+412,28107,"Midland, North Carolina","5,263",104.48,Midland,35.25286,-80.51868
+413,27932,"Edenton, North Carolina","12,362",104.42,Edenton,36.107824,-76.607876
+414,28343,"Gibson, North Carolina","1,769",104.28,Gibson,34.769641,-79.594622
+415,28168,"Vale, North Carolina","9,366",104.04,Vale,35.55236,-81.425071
+416,28752,"Marion, North Carolina","29,221",103.73,Marion,35.713081,-82.058259
+417,28114,"Mooresboro, North Carolina","7,016",103.4,Mooresboro,35.232772,-81.751903
+418,28364,"Maxton, North Carolina","13,513",103.24,Maxton,34.707179,-79.323457
+419,28139,"Rutherfordton, North Carolina","17,943",102.84,Rutherfordton,35.348363,-81.994737
+420,27583,"Timberlake, North Carolina","4,674",102.71,Timberlake,36.309721,-78.930893
+421,27886,"Tarboro, North Carolina","19,913",102.67,Tarboro,35.912368,-77.526864
+422,27557,"Middlesex, North Carolina","6,593",102.61,Middlesex,35.775745,-78.202441
+423,27017,"Dobson, North Carolina","8,577",100.95,Dobson,36.359685,-80.719898
+424,28513,"Ayden, North Carolina","9,930",100.94,Ayden,35.443137,-77.397908
+425,28694,"West Jefferson, North Carolina","6,752",100.76,West Jefferson,36.357952,-81.462271
+426,27048,"Stoneville, North Carolina","8,392",100.67,Stoneville,36.482512,-79.917678
+427,27298,"Liberty, North Carolina","9,527",100.45,Liberty,35.885112,-79.567545
+428,28328,"Clinton, North Carolina","25,313",99.26,Clinton,35.00635,-78.33823
+429,27011,"Boonville, North Carolina","5,310",98.56,Boonville,36.216451,-80.698472
+430,27007,"Ararat, North Carolina","1,339",98.54,Ararat,36.379818,-80.591143
+431,27542,"Kenly, North Carolina","7,501",98.48,Kenly,35.623192,-78.141177
+432,27828,"Farmville, North Carolina","9,055",98.32,Farmville,35.591919,-77.589195
+433,27316,"Ramseur, North Carolina","6,667",97.86,Ramseur,35.688212,-79.616635
+434,28742,"Horse Shoe, North Carolina","6,177",96.48,Horse Shoe,35.38269,-82.651028
+435,28472,"Whiteville, North Carolina","18,960",95.95,Whiteville,34.298944,-78.690146
+436,28127,"New London, North Carolina","7,083",95.53,New London,35.468227,-80.182719
+437,28394,"Vass, North Carolina","4,258",94.86,Vass,35.214456,-79.251617
+438,28772,"Rosman, North Carolina","1,044",94.82,Rosman,35.133363,-82.850941
+439,27344,"Siler City, North Carolina","15,848",94.56,Siler City,35.730926,-79.428721
+440,27054,"Woodleaf, North Carolina","2,342",94.44,Woodleaf,35.79254,-80.597888
+441,28551,"La Grange, North Carolina","12,329",94.08,La Grange,35.316749,-77.770874
+442,27910,"Ahoskie, North Carolina","11,119",93.97,Ahoskie,36.30016,-76.993414
+443,28716,"Canton, North Carolina","17,019",93.37,Canton,35.460265,-82.867106
+444,27042,"Pine Hall, North Carolina",649,92.9,Pine Hall,36.350453,-80.062564
+445,28090,"Lawndale, North Carolina","8,275",91.91,Lawndale,35.454659,-81.559555
+446,27243,"Efland, North Carolina","3,206",91.83,Efland,36.066916,-79.198148
+447,28789,"Whittier, North Carolina","5,015",91.02,Whittier,35.430017,-83.286079
+448,28326,"Cameron, North Carolina","10,205",90.06,Cameron,35.273827,-79.159382
+449,28431,"Chadbourn, North Carolina","7,289",89.99,Chadbourn,34.3245,-78.846908
+450,27822,"Elm City, North Carolina","7,874",89.91,Elm City,35.804779,-77.839022
+451,28580,"Snow Hill, North Carolina","8,816",89.51,Snow Hill,35.442874,-77.706926
+452,27584,"Townsville, North Carolina",146,89.16,Townsville,36.528896,-78.444524
+453,28462,"Supply, North Carolina","9,822",89.02,Supply,34.038603,-78.296236
+454,28340,"Fairmont, North Carolina","11,020",88.85,Fairmont,34.462292,-79.138468
+455,27986,"Winton, North Carolina","1,620",88.8,Winton,36.379434,-76.921221
+456,27019,"Germanton, North Carolina","4,523",88.66,Germanton,36.31312,-80.245976
+457,27315,"Providence, North Carolina","1,587",88.65,Providence,36.502996,-79.380914
+458,27503,"Bahama, North Carolina","3,304",88.52,Bahama,36.152584,-78.884277
+459,27018,"East Bend, North Carolina","7,293",88.48,East Bend,36.197141,-80.518248
+460,27043,"Pinnacle, North Carolina","5,364",88.44,Pinnacle,36.334484,-80.447105
+461,28636,"Hiddenite, North Carolina","4,772",88.15,Hiddenite,35.94741,-81.062971
+462,28768,"Pisgah Forest, North Carolina","6,773",88.04,Pisgah Forest,35.297872,-82.692321
+463,27209,"Biscoe, North Carolina","3,761",86.66,Biscoe,35.343102,-79.753442
+464,28692,"Vilas, North Carolina","3,482",86.48,Vilas,36.291456,-81.806434
+465,27020,"Hamptonville, North Carolina","5,901",86.26,Hamptonville,36.105531,-80.808767
+466,28721,"Clyde, North Carolina","8,256",85.55,Clyde,35.667537,-82.962359
+467,27832,"Gaston, North Carolina","3,144",85.24,Gaston,36.51624,-77.709502
+468,28443,"Hampstead, North Carolina","11,594",85.18,Hampstead,34.445036,-77.675712
+469,28439,"Fair Bluff, North Carolina","1,745",84.92,Fair Bluff,34.303398,-79.005429
+470,27958,"Moyock, North Carolina","6,937",84.67,Moyock,36.501073,-76.173307
+471,28651,"Millers Creek, North Carolina","6,139",84.43,Millers Creek,36.311646,-81.312196
+472,28905,"Marble, North Carolina","2,543",84.16,Marble,35.172133,-83.931273
+473,28452,"Longwood, North Carolina",360,83.89,Longwood,33.999128,-78.556074
+474,28351,"Laurel Hill, North Carolina","5,100",82.83,Laurel Hill,34.84827,-79.563854
+475,28530,"Grifton, North Carolina","6,147",82.77,Grifton,35.363409,-77.415214
+476,28357,"Lumber Bridge, North Carolina","2,883",82.76,Lumber Bridge,34.901888,-79.082766
+477,27880,"Sims, North Carolina","2,138",82.47,Sims,35.730736,-78.080589
+478,28531,"Harkers Island, North Carolina","1,525",81.93,Harkers Island,34.700209,-76.556553
+479,27563,"Norlina, North Carolina","5,191",81.78,Norlina,36.421259,-78.220845
+480,27549,"Louisburg, North Carolina","21,818",81.49,Louisburg,36.089631,-78.234318
+481,28751,"Maggie Valley, North Carolina","2,880",81.47,Maggie Valley,35.516879,-83.10554
+482,28734,"Franklin, North Carolina","23,109",80.92,Franklin,35.198983,-83.421438
+483,27892,"Williamston, North Carolina","15,509",80.71,Williamston,35.81597,-77.063194
+484,28634,"Harmony, North Carolina","5,217",80.38,Harmony,35.972899,-80.75696
+485,28761,"Nebo, North Carolina","6,749",80.35,Nebo,35.652345,-81.90457
+486,27569,"Princeton, North Carolina","6,321",80.22,Princeton,35.429475,-78.172122
+487,28344,"Godwin, North Carolina","3,018",80.19,Godwin,35.169594,-78.640414
+488,27809,"Battleboro, North Carolina","5,162",80.16,Battleboro,36.016777,-77.741619
+489,28511,"Atlantic, North Carolina",817,79.76,Atlantic,34.901116,-76.345763
+490,27325,"Robbins, North Carolina","6,760",79.39,Robbins,35.464346,-79.578926
+491,28754,"Mars Hill, North Carolina","7,367",79.34,Mars Hill,35.872733,-82.512465
+492,27837,"Grimesland, North Carolina","4,377",79.25,Grimesland,35.516677,-77.211067
+493,27960,"Ocracoke, North Carolina",769,79.06,Ocracoke,35.073231,-75.998527
+494,27819,"Conetoe, North Carolina",480,78.16,Conetoe,35.825638,-77.440922
+495,27349,"Snow Camp, North Carolina","4,925",77.82,Snow Camp,35.901313,-79.416062
+496,27312,"Pittsboro, North Carolina","12,513",77.57,Pittsboro,35.760308,-79.19878
+497,28901,"Andrews, North Carolina","5,301",77.54,Andrews,35.202394,-83.803956
+498,27524,"Four Oaks, North Carolina","9,853",77.44,Four Oaks,35.394563,-78.387595
+499,28347,"Hoffman, North Carolina","2,663",77.44,Hoffman,35.04102,-79.564599
+500,28464,"Teachey, North Carolina","1,746",77.38,Teachey,34.77664,-78.01732
+501,28365,"Mount Olive, North Carolina","15,135",76.22,Mount Olive,35.172624,-78.052397
+502,28762,"Old Fort, North Carolina","6,373",76.18,Old Fort,35.62679,-82.231583
+503,27505,"Broadway, North Carolina","4,504",76.06,Broadway,35.423373,-79.000039
+504,28398,"Warsaw, North Carolina","7,195",75.63,Warsaw,34.995035,-78.071712
+505,28574,"Richlands, North Carolina","9,869",75.41,Richlands,34.860075,-77.588612
+506,27311,"Pelham, North Carolina","3,831",75.22,Pelham,36.484143,-79.468272
+507,28622,"Elk Park, North Carolina","2,457",74.9,Elk Park,36.196882,-81.945538
+508,27830,"Fremont, North Carolina","5,103",74.4,Fremont,35.564168,-77.950309
+509,27013,"Cleveland, North Carolina","5,484",73.81,Cleveland,35.750492,-80.700079
+510,27565,"Oxford, North Carolina","23,470",73.7,Oxford,36.361663,-78.649294
+511,27947,"Jarvisburg, North Carolina",604,73.65,Jarvisburg,36.182059,-75.856411
+512,27831,"Garysburg, North Carolina","3,138",73.58,Garysburg,36.464394,-77.562862
+513,28670,"Ronda, North Carolina","2,998",72.78,Ronda,36.194017,-80.914766
+514,28383,"Rowland, North Carolina","7,498",72.45,Rowland,34.576974,-79.262696
+515,28356,"Linden, North Carolina","3,896",71.74,Linden,35.235916,-78.79104
+516,28385,"Salemburg, North Carolina","4,233",71.62,Salemburg,35.073309,-78.503596
+517,27882,"Spring Hope, North Carolina","6,197",71.42,Spring Hope,35.930727,-78.102864
+518,28538,"Hookerton, North Carolina","2,341",71.2,Hookerton,35.422484,-77.571299
+519,28909,"Warne, North Carolina",573,70.65,Warne,34.999507,-83.939638
+520,28463,"Tabor City, North Carolina","7,969",70.3,Tabor City,34.104765,-78.782385
+521,28327,"Carthage, North Carolina","13,256",69.97,Carthage,35.360618,-79.421812
+522,28578,"Seven Springs, North Carolina","4,209",69.95,Seven Springs,35.196952,-77.856972
+523,27355,"Staley, North Carolina","2,493",69.94,Staley,35.794966,-79.574007
+524,28604,"Banner Elk, North Carolina","5,466",69.52,Banner Elk,36.158156,-81.844493
+525,28320,"Bladenboro, North Carolina","8,810",69.23,Bladenboro,34.558099,-78.772787
+526,27844,"Hollister, North Carolina","2,341",68.9,Hollister,36.242712,-77.946424
+527,28582,"Stella, North Carolina","1,178",68.75,Stella,34.751401,-77.154378
+528,28679,"Sugar Grove, North Carolina","1,534",68.14,Sugar Grove,36.261207,-81.828295
+529,28518,"Beulaville, North Carolina","6,116",66.61,Beulaville,34.894823,-77.747493
+530,27916,"Aydlett, North Carolina",441,65.14,Aydlett,36.302497,-75.909193
+531,27305,"Milton, North Carolina","1,616",64.93,Milton,36.51577,-79.216717
+532,27581,"Stem, North Carolina","2,614",64.59,Stem,36.203253,-78.73607
+533,28902,"Brasstown, North Carolina",788,64.19,Brasstown,35.029617,-83.948917
+534,28669,"Roaring River, North Carolina","2,961",63.75,Roaring River,36.238082,-80.992982
+535,27812,"Bethel, North Carolina","2,892",63.74,Bethel,35.806476,-77.380511
+536,28170,"Wadesboro, North Carolina","12,321",63.73,Wadesboro,34.99468,-80.10867
+537,27962,"Plymouth, North Carolina","8,042",63.6,Plymouth,35.797588,-76.716459
+538,28425,"Burgaw, North Carolina","9,483",63.4,Burgaw,34.565212,-77.898522
+539,27379,"Yanceyville, North Carolina","5,940",63.37,Yanceyville,36.382747,-79.349089
+540,28323,"Bunnlevel, North Carolina","2,225",63.25,Bunnlevel,35.321281,-78.824176
+541,28337,"Elizabethtown, North Carolina","9,225",63.01,Elizabethtown,34.657313,-78.574655
+542,28456,"Riegelwood, North Carolina","3,507",62.58,Riegelwood,34.374405,-78.287099
+543,28525,"Deep Run, North Carolina","3,013",62.14,Deep Run,35.11525,-77.685126
+544,27572,"Rougemont, North Carolina","6,561",62.13,Rougemont,36.255158,-78.877507
+545,28137,"Richfield, North Carolina","2,777",61.95,Richfield,35.497797,-80.262685
+546,28103,"Marshville, North Carolina","9,095",61.87,Marshville,35.010589,-80.354282
+547,27950,"Knotts Island, North Carolina","1,825",61.74,Knotts Island,36.529091,-76.061679
+548,28378,"Rex, North Carolina",49,61.7,Rex,34.85971,-79.051783
+549,28657,"Newland, North Carolina","10,245",61.66,Newland,36.021961,-81.942482
+550,28623,"Ennice, North Carolina","1,642",61.61,Ennice,36.535317,-80.977696
+551,27972,"Salvo, North Carolina",339,61,Salvo,35.4266,-75.485316
+552,27544,"Kittrell, North Carolina","3,730",60.69,Kittrell,36.199787,-78.446559
+553,28508,"Albertson, North Carolina","1,771",60.37,Albertson,35.108669,-77.827029
+554,28714,"Burnsville, North Carolina","15,661",60.05,Burnsville,35.878528,-82.304617
+555,28071,"Gold Hill, North Carolina","2,941",59.95,Gold Hill,35.517631,-80.316323
+556,28723,"Cullowhee, North Carolina","8,655",59.25,Cullowhee,35.290811,-83.11683
+557,28626,"Fleetwood, North Carolina","1,818",59,Fleetwood,36.291416,-81.497423
+558,27840,"Hamilton, North Carolina",406,58.97,Hamilton,35.978297,-77.21295
+559,27047,"Siloam, North Carolina","1,233",58.83,Siloam,36.316943,-80.57243
+560,27326,"Ruffin, North Carolina","3,836",58.67,Ruffin,36.46169,-79.55641
+561,28617,"Crumpler, North Carolina","2,311",58.65,Crumpler,36.480702,-81.361979
+562,27371,"Troy, North Carolina","8,058",58.1,Troy,35.424637,-79.955375
+563,28510,"Arapahoe, North Carolina","1,423",57.05,Arapahoe,35.010783,-76.80923
+564,27239,"Denton, North Carolina","8,528",56.61,Denton,35.600845,-80.090334
+565,27820,"Conway, North Carolina","2,669",56.39,Conway,36.417717,-77.235794
+566,28318,"Autryville, North Carolina","4,019",56.19,Autryville,35.026077,-78.619985
+567,27231,"Cedar Grove, North Carolina","1,970",56.11,Cedar Grove,36.207715,-79.169419
+568,28790,"Zirconia, North Carolina","2,533",55.81,Zirconia,35.198197,-82.495159
+569,27852,"Macclesfield, North Carolina","2,653",55.51,Macclesfield,35.750459,-77.636931
+570,27967,"Powellsville, North Carolina",565,54.95,Powellsville,36.228655,-76.975129
+571,28713,"Bryson City, North Carolina","8,286",54.79,Bryson City,35.369463,-83.499854
+572,28635,"Hays, North Carolina","3,451",54.38,Hays,36.342974,-81.124387
+573,28382,"Roseboro, North Carolina","5,999",54.36,Roseboro,34.925966,-78.533268
+574,28773,"Saluda, North Carolina","2,708",54.35,Saluda,35.277424,-82.32354
+575,28675,"Sparta, North Carolina","6,110",54.19,Sparta,36.504083,-81.154502
+576,27888,"Walstonburg, North Carolina","2,619",53.99,Walstonburg,35.589277,-77.71595
+577,28396,"Wagram, North Carolina","2,714",53.8,Wagram,34.931594,-79.402627
+578,28366,"Newton Grove, North Carolina","4,726",53.41,Newton Grove,35.230268,-78.361985
+579,28660,"Olin, North Carolina","1,578",53.37,Olin,35.968548,-80.854418
+580,27817,"Chocowinity, North Carolina","6,127",53.02,Chocowinity,35.441222,-77.076905
+581,27897,"Woodland, North Carolina","2,194",52.65,Woodland,36.326705,-77.193928
+582,27944,"Hertford, North Carolina","10,211",52.6,Hertford,36.195837,-76.386645
+583,28654,"Moravian Falls, North Carolina","2,865",52.58,Moravian Falls,36.058164,-81.159284
+584,28572,"Pink Hill, North Carolina","5,826",52.56,Pink Hill,35.015093,-77.730504
+585,28020,"Casar, North Carolina","2,419",52.01,Casar,35.525678,-81.636594
+586,27341,"Seagrove, North Carolina","5,015",52,Seagrove,35.524152,-79.699421
+587,28705,"Bakersville, North Carolina","5,626",51.99,Bakersville,36.045318,-82.186725
+588,28125,"Mount Ulla, North Carolina","1,940",51.44,Mount Ulla,35.659025,-80.698613
+589,28422,"Bolivia, North Carolina","4,637",51.39,Bolivia,34.023041,-78.17287
+590,28693,"Warrensville, North Carolina","1,782",51.02,Warrensville,36.473863,-81.564661
+591,28586,"Vanceboro, North Carolina","6,928",50.82,Vanceboro,35.32643,-77.159484
+592,28349,"Kenansville, North Carolina","3,472",50.69,Kenansville,34.979997,-77.896192
+593,27024,"Lowgap, North Carolina","2,536",50.5,Lowgap,36.516571,-80.848966
+594,28646,"Linville, North Carolina",230,50.23,Linville,36.062451,-81.876515
+595,28571,"Oriental, North Carolina","2,498",49.95,Oriental,35.063131,-76.707283
+596,28458,"Rose Hill, North Carolina","5,923",49.91,Rose Hill,34.816808,-78.077852
+597,27921,"Camden, North Carolina","3,140",49.49,Camden,36.361312,-76.156367
+598,27589,"Warrenton, North Carolina","8,381",49.28,Warrenton,36.333057,-78.122275
+599,27046,"Sandy Ridge, North Carolina","2,033",49.2,Sandy Ridge,36.502219,-80.078264
+600,28756,"Mill Spring, North Carolina","4,193",49.01,Mill Spring,35.332683,-82.166743
+601,27256,"Gulf, North Carolina",166,48.47,Gulf,35.565606,-79.288688
+602,28710,"Bat Cave, North Carolina",176,48.47,Bat Cave,35.465871,-82.288901
+603,28466,"Wallace, North Carolina","8,456",48.16,Wallace,34.726634,-77.907832
+604,28445,"Holly Ridge, North Carolina","4,606",48.09,Holly Ridge,34.516269,-77.560112
+605,27570,"Ridgeway, North Carolina",216,47.71,Ridgeway,36.45375,-78.235926
+606,27356,"Star, North Carolina","3,195",47.7,Star,35.443292,-79.802649
+607,28606,"Boomer, North Carolina","1,929",47.67,Boomer,36.057151,-81.31593
+608,27823,"Enfield, North Carolina","8,849",47.56,Enfield,36.213482,-77.70571
+609,27541,"Hurdle Mills, North Carolina","3,346",47.26,Hurdle Mills,36.265928,-79.100571
+610,28457,"Rocky Point, North Carolina","8,047",47.07,Rocky Point,34.459905,-77.862331
+611,28685,"Traphill, North Carolina","2,009",46.73,Traphill,36.340516,-81.03162
+612,27022,"Lawsonville, North Carolina","1,581",46.71,Lawsonville,36.512166,-80.215604
+613,27016,"Danbury, North Carolina","1,824",46.69,Danbury,36.446821,-80.21985
+614,28135,"Polkton, North Carolina","4,151",46.28,Polkton,35.044443,-80.21311
+615,28433,"Clarkton, North Carolina","4,893",46.28,Clarkton,34.488505,-78.616673
+616,28450,"Lake Waccamaw, North Carolina","2,357",46.26,Lake Waccamaw,34.324662,-78.515289
+617,27553,"Manson, North Carolina","1,967",46.22,Manson,36.47819,-78.29274
+618,27871,"Robersonville, North Carolina","5,032",46.17,Robersonville,35.802069,-77.260565
+619,28906,"Murphy, North Carolina","16,454",46.09,Murphy,35.121209,-84.12546
+620,27808,"Bath, North Carolina","2,269",45.92,Bath,35.467424,-76.759213
+621,28018,"Bostic, North Carolina","5,432",45.86,Bostic,35.490775,-81.802678
+622,27252,"Goldston, North Carolina","1,475",45.74,Goldston,35.550935,-79.358865
+623,27883,"Stantonsburg, North Carolina","3,309",45.48,Stantonsburg,35.591314,-77.797084
+624,28395,"Wade, North Carolina","2,134",44.71,Wade,35.139367,-78.740661
+625,28521,"Chinquapin, North Carolina","1,964",44.68,Chinquapin,34.817902,-77.736618
+626,27917,"Barco, North Carolina",881,44.64,Barco,36.358418,-75.99342
+627,27816,"Castalia, North Carolina","2,064",44.15,Castalia,36.098182,-78.073602
+628,28393,"Turkey, North Carolina","1,964",44,Turkey,34.980876,-78.189681
+629,28735,"Gerton, North Carolina",167,44,Gerton,35.474962,-82.347445
+630,28341,"Faison, North Carolina","4,260",43.74,Faison,35.120111,-78.174052
+631,27229,"Candor, North Carolina","3,942",43.67,Candor,35.261205,-79.807741
+632,28432,"Clarendon, North Carolina","1,655",43.33,Clarendon,34.168118,-78.758679
+633,28643,"Lansing, North Carolina","3,052",43.32,Lansing,36.523609,-81.534236
+634,28618,"Deep Gap, North Carolina","1,825",43.08,Deep Gap,36.193871,-81.51864
+635,27053,"Westfield, North Carolina","2,811",43.04,Westfield,36.472259,-80.340718
+636,27343,"Semora, North Carolina","1,576",42.7,Semora,36.505896,-79.108145
+637,28430,"Cerro Gordo, North Carolina","2,061",42.23,Cerro Gordo,34.284007,-78.932772
+638,27829,"Fountain, North Carolina","1,660",41.95,Fountain,35.690463,-77.617078
+639,28119,"Morven, North Carolina","2,954",41.76,Morven,34.854612,-80.014303
+640,27923,"Coinjock, North Carolina",652,41.55,Coinjock,36.345079,-75.937637
+641,27937,"Gates, North Carolina","3,080",41.34,Gates,36.508724,-76.788898
+642,27207,"Bear Creek, North Carolina","3,809",41.34,Bear Creek,35.603315,-79.385501
+643,28438,"Evergreen, North Carolina","1,650",41.29,Evergreen,34.420398,-78.913721
+644,28709,"Barnardsville, North Carolina","1,647",41.13,Barnardsville,35.770199,-82.394984
+645,28392,"Tar Heel, North Carolina","1,759",41.08,Tar Heel,34.740867,-78.804488
+646,27874,"Scotland Neck, North Carolina","5,818",40.93,Scotland Neck,36.134317,-77.418057
+647,27208,"Bennett, North Carolina","1,762",40.77,Bennett,35.580182,-79.524806
+648,27242,"Eagle Springs, North Carolina","2,284",40.49,Eagle Springs,35.335237,-79.632182
+649,27926,"Corapeake, North Carolina","1,651",39.71,Corapeake,36.505115,-76.604925
+650,27980,"Tyner, North Carolina","2,238",39.69,Tyner,36.247837,-76.627988
+651,28453,"Magnolia, North Carolina","3,444",39.09,Magnolia,34.866403,-78.076452
+652,28689,"Union Grove, North Carolina","1,742",39.02,Union Grove,36.038288,-80.909785
+653,28753,"Marshall, North Carolina","10,169",39,Marshall,35.86408,-82.712731
+654,27821,"Edward, North Carolina",429,38.8,Edward,35.337908,-76.852491
+655,27850,"Littleton, North Carolina","7,373",38.58,Littleton,36.412391,-77.880191
+656,28436,"Delco, North Carolina","1,714",38.4,Delco,34.275492,-78.281679
+657,28369,"Orrum, North Carolina","2,777",38.39,Orrum,34.423373,-79.029416
+658,28442,"Hallsboro, North Carolina","1,794",38.25,Hallsboro,34.301813,-78.608365
+659,27891,"Whitakers, North Carolina","5,064",37.9,Whitakers,36.096496,-77.734109
+660,27965,"Poplar Branch, North Carolina",538,37.67,Poplar Branch,36.230776,-75.899079
+661,28683,"Thurmond, North Carolina","1,611",37.64,Thurmond,36.398897,-80.918268
+662,28627,"Glade Valley, North Carolina","1,405",37.56,Glade Valley,36.441867,-81.010019
+663,28479,"Winnabow, North Carolina","2,869",37.51,Winnabow,34.127157,-78.044842
+664,27559,"Moncure, North Carolina","2,149",37.51,Moncure,35.63151,-79.088882
+665,28529,"Grantsboro, North Carolina","1,953",37.34,Grantsboro,35.078712,-76.86827
+666,27314,"Prospect Hill, North Carolina",668,37.29,Prospect Hill,36.286348,-79.19815
+667,28765,"Penland, North Carolina",53,37.25,Penland,35.934408,-82.109938
+668,28904,"Hayesville, North Carolina","7,414",37.02,Hayesville,35.068396,-83.733464
+669,28684,"Todd, North Carolina","2,158",36.89,Todd,36.336086,-81.607828
+670,28478,"Willard, North Carolina","2,257",36.48,Willard,34.671118,-78.050895
+671,28747,"Lake Toxaway, North Carolina","1,918",36.09,Lake Toxaway,35.146361,-82.914277
+672,27924,"Colerain, North Carolina","3,588",35.78,Colerain,36.175371,-76.851932
+673,27884,"Stokes, North Carolina","1,124",35.66,Stokes,35.702849,-77.270314
+674,28741,"Highlands, North Carolina","3,444",35.66,Highlands,35.059616,-83.244149
+675,27281,"Jackson Springs, North Carolina","2,651",35.6,Jackson Springs,35.185285,-79.620176
+676,27970,"Roper, North Carolina","3,579",35.2,Roper,35.897777,-76.544552
+677,27973,"Shawboro, North Carolina",979,35.12,Shawboro,36.374385,-76.082183
+678,28133,"Peachland, North Carolina","2,840",34.49,Peachland,34.887312,-80.288114
+679,27306,"Mount Gilead, North Carolina","6,292",34.13,Mount Gilead,35.225229,-79.980186
+680,28746,"Lake Lure, North Carolina","2,154",33.95,Lake Lure,35.460799,-82.183248
+681,28589,"Williston, North Carolina",296,33.42,Williston,34.808441,-76.510879
+682,28423,"Bolton, North Carolina","2,194",33.1,Bolton,34.320925,-78.386667
+683,28523,"Cove City, North Carolina","2,635",32.46,Cove City,35.208786,-77.299531
+684,27212,"Blanch, North Carolina","1,456",32.26,Blanch,36.480076,-79.27965
+685,27866,"Pleasant Hill, North Carolina",938,32.22,Pleasant Hill,36.518176,-77.530573
+686,28771,"Robbinsville, North Carolina","7,966",31.96,Robbinsville,35.348972,-83.80058
+687,28615,"Creston, North Carolina","1,987",31.67,Creston,36.451777,-81.668178
+688,27291,"Leasburg, North Carolina","1,942",31.6,Leasburg,36.36774,-79.161627
+689,28763,"Otto, North Carolina","2,467",31.45,Otto,35.028618,-83.466858
+690,27805,"Aulander, North Carolina","3,326",31.36,Aulander,36.207567,-77.092722
+691,28717,"Cashiers, North Carolina","1,537",30.96,Cashiers,35.049339,-83.093366
+692,27872,"Roxobel, North Carolina",335,30.92,Roxobel,36.187771,-77.268944
+693,27507,"Bullock, North Carolina","1,732",30.84,Bullock,36.513546,-78.569507
+694,28167,"Union Mills, North Carolina","2,365",30.8,Union Mills,35.508133,-81.961946
+695,27956,"Maple, North Carolina",492,30.58,Maple,36.415722,-76.033527
+696,27876,"Seaboard, North Carolina","1,457",30.45,Seaboard,36.474414,-77.405107
+697,27839,"Halifax, North Carolina","4,185",30.43,Halifax,36.280743,-77.555932
+698,27846,"Jamesville, North Carolina","2,942",30.29,Jamesville,35.758568,-76.897527
+699,28515,"Bayboro, North Carolina","3,389",30.18,Bayboro,35.185887,-76.637517
+700,28455,"Nakina, North Carolina","1,789",30.17,Nakina,34.10489,-78.638356
+701,28719,"Cherokee, North Carolina","6,429",30.08,Cherokee,35.626752,-83.290096
+702,28740,"Green Mountain, North Carolina","2,386",30.02,Green Mountain,36.052443,-82.3071
+703,27938,"Gatesville, North Carolina","1,545",29.86,Gatesville,36.394005,-76.723103
+704,27857,"Oak City, North Carolina","2,103",29.7,Oak City,35.970921,-77.260509
+705,27562,"New Hill, North Carolina","1,727",29.66,New Hill,35.640917,-78.977672
+706,27869,"Rich Square, North Carolina","2,686",29.48,Rich Square,36.27956,-77.311689
+707,27979,"Sunbury, North Carolina","1,544",29.42,Sunbury,36.453612,-76.566904
+708,27827,"Falkland, North Carolina",70,29.27,Falkland,35.703864,-77.503994
+709,28665,"Purlear, North Carolina","2,488",29.26,Purlear,36.21602,-81.383476
+710,28526,"Dover, North Carolina","2,486",28.85,Dover,35.224535,-77.409152
+711,27942,"Harrellsville, North Carolina","1,140",28.83,Harrellsville,36.272503,-76.783869
+712,27847,"Kelford, North Carolina",965,28.72,Kelford,36.182276,-77.195875
+713,28338,"Ellerbe, North Carolina","4,583",28.16,Ellerbe,35.096399,-79.748205
+714,28663,"Piney Creek, North Carolina",580,28.04,Piney Creek,36.53203,-81.309408
+715,28668,"Roaring Gap, North Carolina",142,27.3,Roaring Gap,36.387244,-81.017098
+716,28555,"Maysville, North Carolina","4,528",27.19,Maysville,34.87287,-77.304337
+717,28527,"Ernul, North Carolina",938,26.97,Ernul,35.252239,-77.024255
+718,27983,"Windsor, North Carolina","9,026",26.55,Windsor,35.992327,-76.949197
+719,28102,"Mc Farlan, North Carolina",109,26.43,Mc Farlan,34.827766,-79.965986
+720,28420,"Ash, North Carolina","3,672",26.16,Ash,34.073706,-78.481116
+721,28624,"Ferguson, North Carolina","1,371",26.07,Ferguson,36.116554,-81.421999
+722,28581,"Stacy, North Carolina",206,25.93,Stacy,34.844375,-76.435463
+723,28718,"Cedar Mountain, North Carolina",337,25.87,Cedar Mountain,35.164439,-82.61949
+724,27865,"Pinetown, North Carolina","2,006",25.84,Pinetown,35.551743,-76.853012
+725,28435,"Currie, North Carolina","2,378",25.84,Currie,34.40591,-78.109108
+726,28091,"Lilesville, North Carolina","2,335",25.75,Lilesville,34.99321,-79.937375
+727,28556,"Merritt, North Carolina","1,078",25.71,Merritt,35.124611,-76.663596
+728,28441,"Garland, North Carolina","3,531",25.7,Garland,34.792072,-78.449272
+729,27935,"Eure, North Carolina","1,519",25.25,Eure,36.431079,-76.868092
+730,27928,"Creswell, North Carolina","2,105",25.07,Creswell,35.848232,-76.405801
+731,28631,"Grassy Creek, North Carolina",511,24.78,Grassy Creek,36.557044,-81.425992
+732,28454,"Maple Hill, North Carolina","2,544",24.34,Maple Hill,34.666254,-77.621657
+733,27957,"Merry Hill, North Carolina","1,074",24,Merry Hill,36.066297,-76.759059
+734,28649,"Mc Grady, North Carolina",875,23.84,Mc Grady,36.3429,-81.219062
+735,27927,"Corolla, North Carolina",648,23.78,Corolla,36.47028,-75.875397
+736,27814,"Blounts Creek, North Carolina","1,531",23.65,Blounts Creek,35.380117,-76.932428
+737,27818,"Como, North Carolina","1,421",23.23,Como,36.499725,-77.018505
+738,27845,"Jackson, North Carolina","2,460",23.18,Jackson,36.371267,-77.43999
+739,28644,"Laurel Springs, North Carolina","1,478",23.09,Laurel Springs,36.439936,-81.277431
+740,28743,"Hot Springs, North Carolina","2,390",23.08,Hot Springs,35.814546,-82.873204
+741,28736,"Glenville, North Carolina",643,22.95,Glenville,35.175631,-83.08652
+742,27849,"Lewiston Woodville, North Carolina","1,654",22.8,Lewiston Woodville,36.077306,-77.215025
+743,28363,"Marston, North Carolina","1,062",22.6,Marston,34.938559,-79.5457
+744,27551,"Macon, North Carolina","2,023",22,Macon,36.431195,-78.065868
+745,28573,"Pollocksville, North Carolina","2,059",21.99,Pollocksville,34.972895,-77.205645
+746,28421,"Atkinson, North Carolina","1,419",21.64,Atkinson,34.526701,-78.177065
+747,28783,"Tuckasegee, North Carolina","1,215",21.47,Tuckasegee,35.232214,-83.029705
+748,27922,"Cofield, North Carolina",852,21.23,Cofield,36.326204,-76.864748
+749,28585,"Trenton, North Carolina","4,199",21.18,Trenton,35.049763,-77.41758
+750,28629,"Glendale Springs, North Carolina",53,21.11,Glendale Springs,36.349385,-81.362851
+751,27925,"Columbia, North Carolina","3,899",20.83,Columbia,35.869365,-76.188039
+752,27968,"Rodanthe, North Carolina",178,20.56,Rodanthe,35.70866,-75.494906
+753,27974,"Shiloh, North Carolina","1,187",20.54,Shiloh,36.272128,-76.00498
+754,27946,"Hobbsville, North Carolina","1,256",20.18,Hobbsville,36.377813,-76.591631
+755,27843,"Hobgood, North Carolina","1,292",20.16,Hobgood,35.990286,-77.389369
+756,28552,"Lowland, North Carolina",318,20.04,Lowland,35.300932,-76.546476
+757,27976,"South Mills, North Carolina","2,251",19.87,South Mills,36.483797,-76.344783
+758,27810,"Belhaven, North Carolina","4,559",19.59,Belhaven,35.594699,-76.495168
+759,28399,"White Oak, North Carolina","2,075",19.48,White Oak,34.784523,-78.709012
+760,28434,"Council, North Carolina","1,745",19.39,Council,34.459823,-78.462151
+761,28774,"Sapphire, North Carolina",785,19.33,Sapphire,35.093531,-82.995061
+762,27862,"Pendleton, North Carolina",842,19.29,Pendleton,36.490195,-77.188266
+763,27919,"Belvidere, North Carolina",880,18.33,Belvidere,36.320087,-76.504787
+764,27853,"Margarettsville, North Carolina",763,16.89,Margarettsville,36.51373,-77.30421
+765,28444,"Harrells, North Carolina","2,157",16.83,Harrells,34.670985,-78.315282
+766,27860,"Pantego, North Carolina","1,960",15.66,Pantego,35.660071,-76.676727
+767,27806,"Aurora, North Carolina","2,538",14.94,Aurora,35.304999,-76.756067
+768,28447,"Ivanhoe, North Carolina","1,162",14.68,Ivanhoe,34.597821,-78.252419
+769,28781,"Topton, North Carolina",882,13.22,Topton,35.224818,-83.635607
+770,28520,"Cedar Island, North Carolina",328,12.28,Cedar Island,34.955717,-76.296577
+771,27824,"Engelhard, North Carolina","1,561",12.01,Engelhard,35.516975,-76.009959
+772,28733,"Fontana Dam, North Carolina",27,11.51,Fontana Dam,35.443836,-83.833423
+773,28708,"Balsam Grove, North Carolina",572,10.67,Balsam Grove,35.289089,-82.84855
+774,28537,"Hobucken, North Carolina",216,10.59,Hobucken,35.2607,-76.541911
+775,28448,"Kelly, North Carolina","1,004",10.18,Kelly,34.522635,-78.365874
+776,27885,"Swanquarter, North Carolina","1,229",10,Swanquarter,35.428229,-76.275726
+777,28702,"Almond, North Carolina",28,9.99,Almond,35.396082,-83.580634
+778,28611,"Collettsville, North Carolina",584,9.32,Collettsville,36.006907,-81.743309
+779,27826,"Fairfield, North Carolina","1,215",7.71,Fairfield,35.598385,-76.174035
+780,28662,"Pineola, North Carolina",54,6.75,Pineola,36.026283,-81.842419
+781,27875,"Scranton, North Carolina",580,4.43,Scranton,35.461484,-76.470873
+782,27953,"Manns Harbor, North Carolina","1,182",4.03,Manns Harbor,35.771035,-75.849852
